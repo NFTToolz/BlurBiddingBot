@@ -1,5 +1,5 @@
 # Blur Collection Bidding Bot
-Bidding on top collections currently is gaining between 5-50 $BLUR/day per ETH in Blur Pool Balance.
+Bidding on top collections currently is gaining between 5-50 $Blur/day per ETH in Blur Pool Balance.
 
 Season 2 rewards being 300 Million $Blur, get started with you bidding bot today.
 
