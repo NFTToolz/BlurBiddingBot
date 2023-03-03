@@ -1,6 +1,9 @@
 # Blur Collection Bidding Bot
 Bidding on top collections currently is gaining between 5-50 $BLUR/day per ETH in Blur Pool Balance.
+
 Season 2 rewards being 300 Million $Blur, get started with you bidding bot today.
+
+![image](https://user-images.githubusercontent.com/125624349/222613546-65801fdb-676f-4b1b-b7cc-629e34d9268f.png)
 
 ## Setup & run
 - Create `.env` file based on the `.sample.env` and adjust all the variables on your preferences
@@ -44,6 +47,5 @@ Generates a collections config file, where you can override settings per collect
 - Bids are only cancelled when the pools are disappearing, when getting under `POOL_SIZE_LIMIT_CANCEL` or `SAME_POOL_SIZE_LIMIT_CANCEL` (followin the same rules as when creating bids)
 - Bids will auto expire after 30 minutes
 
-Cost: $1000/month
 
-Buy: Raise a ticket https://discord.gg/Yezs2VDhBV
+### Raise a ticket https://discord.gg/Yezs2VDhBV
