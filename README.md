@@ -48,4 +48,6 @@ Generates a collections config file, where you can override settings per collect
 - Bids will auto expire after 30 minutes
 
 
-### Raise a ticket https://discord.gg/Yezs2VDhBV
+### Raise a ticket to get access today https://discord.gg/Yezs2VDhBV (subscription model)
+
+_Note: code is missing the critcal custom blur web socket to function, subscribe to get access._
