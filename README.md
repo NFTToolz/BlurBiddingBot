@@ -48,6 +48,11 @@ Generates a collections config file, where you can override settings per collect
 - Bids will auto expire after 30 minutes
 
 
-### Raise a ticket to get access today https://discord.gg/Yezs2VDhBV (subscription model)
+### Raise a ticket to get access today  (subscription model)
+https://discord.gg/CsGGnd7rtJ
+
+discord: mattnfttools
+
+telegram: nfttoolz
 
 _Note: code is missing the critical custom blur web socket to function, subscribe to get access._
